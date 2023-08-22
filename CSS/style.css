@@ -1,0 +1,40 @@
+/* GENERAL CONFIGURATION */
+
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+html {
+    font-family: 'Teko', sans-serif;;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* HEADER CONFIGURATION */
+
+header {
+    display: flex;
+
+}
+
+nav {
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom: -200px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}

@@ -92,6 +92,8 @@ Tactical Ability: Gravity Lift
 Passive Ability: Spacewalk
 Ultimate Ability: Black Hole
 
+Gravitational Manipulator
+
 Almost one hundred years ago, the Outlands were on the edge of a cataclysmic energy crisis.
 The Dr. Mary an eccentric astrophysicist was hired to find a solution.
 With the help of her apprentice, Dr. Reid, Mary discovered Branthium - an element she was convinced could be the key to limitless energy. 
@@ -110,6 +112,8 @@ Class: Support
 Tactical Ability: Burglar’s Best Friend
 Passive Ability: Eye for Quality
 Ultimate Ability: Black Market Boutique
+
+Translocating Thief
 
 When Loba was nine, she looked on as simulacrum hitman Revenant killed her family.
 Left with nothing, Loba survived by picking pockets. 
@@ -136,3 +140,4 @@ Wraith is a whirlwind fighter, able to execute deadly attacks and manipulate spa
 Years ago, she woke up in an IMC detention facility with no memory of who she was. 
 Senior Science Pilot Renee Blasey, who volunteered as guinea pig for her own experiments... whose partner betrayed her and locked her away… no longer existed.
 
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
