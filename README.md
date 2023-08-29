@@ -1,4 +1,7 @@
 # <p align="center">APEX WEB SITE</p>
+
+[BannerApex](Images/Img_banner/apex-legends-banner.jpg)
+
 ## Index
 * About
 * Screenshots
@@ -15,9 +18,16 @@
   
 ## ABOUT
 <strong>Apex Web Site</strong> is a class project about the video game Apex Legends developed by [Jershon Espitia](https://github.com/JershonEspitia).<br>
-This web site is inspirated in the [original](https://www.ea.com/es-es/games/apex-legends) page.
+This web site is inspirated in the [original](https://www.ea.com/es-es/games/apex-legends) page. <br>
+In this Web Site you can found information about the game and some legends with their abilities.
 
 ## SCREENSHOTS
+
+[Screenshot_1](Images/Img_screenshots/Screenshot_1.png)
+[Screenshot_1](Images/Img_screenshots/Screenshot_2.png)
+[Screenshot_1](Images/Img_screenshots/Screenshot_3.png)
+[Screenshot_1](Images/Img_screenshots/Screenshot_4.png)
+[Screenshot_1](Images/Img_screenshots/Screenshot_5.png)
 
 ## HOW TO CLONE?
 
