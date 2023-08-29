@@ -1,6 +1,6 @@
 # <p align="center">APEX WEB SITE</p>
 
-[BannerApex](Images/Img_banner/apex-legends-banner.jpg)
+![BannerApex](Images/Img_banner/apex-legends-banner.jpg)
 
 ## Index
 * About
@@ -23,11 +23,11 @@ In this Web Site you can found information about the game and some legends with 
 
 ## SCREENSHOTS
 
-[Screenshot_1](Images/Img_screenshots/Screenshot_1.png)
-[Screenshot_1](Images/Img_screenshots/Screenshot_2.png)
-[Screenshot_1](Images/Img_screenshots/Screenshot_3.png)
-[Screenshot_1](Images/Img_screenshots/Screenshot_4.png)
-[Screenshot_1](Images/Img_screenshots/Screenshot_5.png)
+![Screenshot_1](Images/Img_screenshots/Screenshot_1.png)
+![Screenshot_1](Images/Img_screenshots/Screenshot_2.png)
+![Screenshot_1](Images/Img_screenshots/Screenshot_3.png)
+![Screenshot_1](Images/Img_screenshots/Screenshot_4.png)
+![Screenshot_1](Images/Img_screenshots/Screenshot_5.png)
 
 ## HOW TO CLONE?
 
