@@ -1,3 +1,39 @@
-<h1 align="center"> APEX WEB SITE </h1>
-<h2>About</h2>
-*Apex Web Site* is a project class about the video game [Apex Legend](https://www.ea.com/es-es/games/apex-legends)
+# <p align="center">APEX WEB SITE</p>
+## Index
+* About
+* Screenshots
+* How to clone?
+* Resources
+  - Images
+  - Texts
+  - Videos
+  - Planning
+  - HTML
+  - CSS3
+* Technologies used
+* Author
+  
+## ABOUT
+<strong>Apex Web Site</strong> is a class project about the video game Apex Legends developed by [Jershon Espitia](https://github.com/JershonEspitia).<br>
+This web site is inspirated in the [original](https://www.ea.com/es-es/games/apex-legends) page.
+
+## SCREENSHOTS
+
+## HOW TO CLONE?
+
+`git clone https://github.com/JershonEspitia/ProjectPageApex`
+
+## RESOURCES
+- [Images](Images)
+- [Texts](Texts)
+- [Videos](Videos)
+- [Planning](Planning)
+- [HTML](HTML)
+- [CSS](CSS)
+
+## TECHNOLOGIES USED
+- HTML5
+- CSS
+
+## AUTHOR
+Developed by [Jershon Espitia](https://github.com/JershonEspitia).
