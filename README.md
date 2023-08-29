@@ -1,6 +1,6 @@
 # <p align="center">APEX WEB SITE</p>
 
-<p align="center">![BannerApex](Images/Img_banner/apex-legends-banner.jpg)</p>
+![BannerApex](Images/Img_banner/apex-legends-banner.jpg)
 
 ## Index
 * About
