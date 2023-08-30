@@ -31,7 +31,7 @@ In this Web Site you can found information about the game and some legends with 
 
 ## HOW TO CLONE?
 
-`git clone https://github.com/JershonEspitia/ProjectPageApex`
+` git clone https://github.com/JershonEspitia/ProjectPageApex `
 
 ## RESOURCES
 - [Images](Images)
@@ -43,7 +43,8 @@ In this Web Site you can found information about the game and some legends with 
 
 ## TECHNOLOGIES USED
 - HTML5
-- CSS
+- CSS3
+- BOOTSTRAP
 
 ## AUTHOR
 Developed by [Jershon Espitia](https://github.com/JershonEspitia).
