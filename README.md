@@ -8,8 +8,8 @@
 * About
 * Development process
   - Analysis
-  - Design
   - Resource collection
+  - Design
   - HTML layout
   - CSS layout
   - Boostrap component implementation
@@ -35,14 +35,23 @@ In this Web Site you can found information about the game and some legends with 
 ### Analysis:
 The first step for the development of this project was the analysis of what was going to be done, and based on the original website, I took some ideas to implement them in mine.
 
+### Resource collection:
+The second step involved gathering information and translating the texts that were going to be placed on the website, as well as collecting the images.
+
 ### Design:
-The second step was to create the designs (wireframes) of how I wanted my website to look, these are the mockups.
+The third step was to create the designs (wireframes) of how I wanted my website to look, these are the mockups.
 <p align="center">
   <img src="./Planning/wireframes.png">
 </p>
 
-### Resource collection
-The third step involved gathering information and translating the texts that were going to be placed on the website, as well as collecting the images.
+### HTML layout:
+The fourth step was to create the HTML structure, which was semantically correct and also coherent.
+
+### CSS layout:
+The fifth step was to create the CSS style, aiming to give an authentic personality to the website.
+
+### Boostrap component implementation:
+Finally, the Bootstrap framework was used to add a component (image carousel).
 
 ## SCREENSHOTS
 
