@@ -37,7 +37,12 @@ The first step for the development of this project was the analysis of what was 
 
 ### Design:
 The second step was to create the designs (wireframes) of how I wanted my website to look, these are the mockups.
+<p align="center">
+  <img src="./Planning/wireframes.png">
+</p>
 
+### Resource collection
+The third step involved gathering information and translating the texts that were going to be placed on the website, as well as collecting the images.
 
 ## SCREENSHOTS
 
