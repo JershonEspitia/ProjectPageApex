@@ -1,9 +1,18 @@
 # <p align="center">APEX WEB SITE</p>
 
-![BannerApex](Images/Img_banner/apex-legends-banner.jpg)
+<p align="center">
+  <img src="./Images/Img_banner/apex-legends-banner.jpg">
+</p>
 
 ## Index
 * About
+* Development process
+  - Analysis
+  - Design
+  - Resource collection
+  - HTML layout
+  - CSS layout
+  - Boostrap component implementation
 * Screenshots
 * How to clone?
 * Resources
@@ -21,14 +30,25 @@
 This web site is inspirated in the [original](https://www.ea.com/es-es/games/apex-legends) page. <br>
 In this Web Site you can found information about the game and some legends with their abilities.
 
+## DEVELOPMENT PROCESS
+
+### Analysis:
+The first step for the development of this project was the analysis of what was going to be done, and based on the original website, I took some ideas to implement them in mine.
+
+### Design:
+The second step was to create the designs (wireframes) of how I wanted my website to look, these are the mockups.
+
+
 ## SCREENSHOTS
 
-![Screenshot_1](Images/Img_screenshots/Screenshot_1.png)
-![Screenshot_1](Images/Img_screenshots/Screenshot_2.png)
-![Screenshot_1](Images/Img_screenshots/Screenshot_3.png)
-![Screenshot_1](Images/Img_screenshots/Screenshot_4.png)
-![Screenshot_1](Images/Img_screenshots/Screenshot_5.png)
-![Screenshot_1](Images/Img_screenshots/Screenshot_6.png)
+<p align="center">
+  <img src="./Images/Img_screenshots/Screenshot_1.png">
+  <img src="./Images/Img_screenshots/Screenshot_2.png">
+  <img src="./Images/Img_screenshots/Screenshot_3.png">
+  <img src="./Images/Img_screenshots/Screenshot_4.png">
+  <img src="./Images/Img_screenshots/Screenshot_5.png">
+  <img src="./Images/Img_screenshots/Screenshot_6.png">
+</p>
 
 ## HOW TO CLONE?
 
